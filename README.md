@@ -19,7 +19,8 @@ A user enters the name of a book they like in the recommendations page.
 ## Files
 - `app.py`: Flask backend
 - `.csv` files: Data files or you can download it from(https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset?)
-- `Notebook.ipynb`: Model and data prep
+- `Notebook.ipynb`: Model(you can download the pkl file from here too...) and data prep
+- `*.pkl`:pkl files(Extract the books.pkl from books.zip file)
 
 ## To Run
 ```bash
