@@ -1,6 +1,6 @@
 # My Book Recommendation System
 
-This is a Flask-based book recommender app using popular & collaborative filtering. It helps users discover books similar to their favorite reads by leveraging collaborative filtering techniques.
+This is a Flask-based book recommender app using  collaborative filtering. It helps users discover books similar to their favorite reads by leveraging collaborative filtering techniques.
 **How it works:**
 ->A user enters the name of a book they like.
 
@@ -12,8 +12,8 @@ A user enters the name of a book they like in the recommendations page.
 ->The system uses a precomputed similarity matrix to find and recommend similar books.
 
 ## Features
-- Popular book display(Popular Filtering)
-- User-based book recommendation(Collaborative Filtering)
+- Popular book display(Popularity based rexommendations)
+- User-based book recommendation(Collaborative recommendations)
 - Clean UI
 
 ## Files
